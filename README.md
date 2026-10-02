@@ -1,15 +1,20 @@
 # askvortsov/flarum-moderator-warnings (Archive)
 
-This repository is a permanent, read-only archive of released versions of `askvortsov/flarum-moderator-warnings`, preserved by the [Extension Archive for Flarum](https://github.com/flarchive/archive-index).
+This repository is a permanent, read-only archive of released versions of `askvortsov/flarum-moderator-warnings`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+
+> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-## Quick Download
+## Archive Status
 
-- **Latest Archived Version:** `v0.6.3`
-- **Flarum Compatibility:** `^1.0.0`
-- **Direct Download (.zip):** [Download v0.6.3 (.zip)](https://github.com/flarchive/askvortsov-flarum-moderator-warnings/archive/refs/tags/archive/v0.6.3.zip)
-- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/askvortsov-flarum-moderator-warnings/tags)
+- **Latest Archived Release:** `v0.6.3`
+- **Target Flarum Compatibility:** `^1.0.0`
+- **Declared License:** `MIT`
+- **Upstream Repository:** https://github.com/askvortsov1/flarum-moderator-warnings.git
+- **All Archived Tags:** [View Tags](https://github.com/flarchive/askvortsov-flarum-moderator-warnings/tags)
+
+*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
 
 ## Archive Catalog
 
