@@ -4,7 +4,16 @@ This repository is a permanent, read-only archive of released versions of `askvo
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `v0.6.3`
+- **Flarum Compatibility:** `^1.0.0`
+- **Direct Download (.zip):** [Download v0.6.3 (.zip)](https://github.com/flarchive/askvortsov-flarum-moderator-warnings/archive/refs/tags/archive/v0.6.3.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/askvortsov-flarum-moderator-warnings/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/askvortsov-flarum-moderator-warnings.json)
 - Upstream repository: https://github.com/askvortsov1/flarum-moderator-warnings.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
